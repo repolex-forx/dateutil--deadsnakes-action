@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "dateutil",
+  "repo": "deadsnakes-action",
+  "versions": [
+    {
+      "commit": "dafca658ce5a39e29d3f1d1da2d9a343c1f9ce9e",
+      "parsed_at": "2026-10-11T20:27:33.248866+00:00",
+      "filetree": "filetree/dafca658ce5a39e29d3f1d1da2d9a343c1f9ce9e.nq.gz",
+      "blobs": [
+        "blob/9137f742a666cb559217bc0d37379671d27d45aa.nq.gz",
+        "blob/b6c2693071afdfc05b396e4c087145783ad3d0d7.nq.gz",
+        "blob/6db4cf4150997b00ef3aa5c030f8d0fb93a8d532.nq.gz",
+        "blob/ebf77671f66017d72f2b472c15ba09427ed831c1.nq.gz",
+        "blob/0eea44b41ca30a28f89da7ab18b0398a44333aad.nq.gz",
+        "blob/7f2b679709107924bee6470c4ea92d3712cc891d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
