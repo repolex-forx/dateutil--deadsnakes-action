@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dateutil/deadsnakes-action/commit/dafca658ce5a39e29d3f1d1da2d9a343c1f9ce9e",
       "git:hexsha": "dafca658ce5a39e29d3f1d1da2d9a343c1f9ce9e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:31:54.724806+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dateutil/deadsnakes-action/commit/00f93f57c923fa054bcb273f2170d8b0a60139d7",
